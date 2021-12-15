@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Change on the feature branch!</p>
+        <span>Learn React</span>
       </header>
     </div>
   );
